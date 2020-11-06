@@ -16,6 +16,7 @@
     "typescript": "^4.0.3",
     "web-vitals": "^0.2.4"
   },
+  "homepage": "http://ansharai-web.github.io/fox-game-react",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
